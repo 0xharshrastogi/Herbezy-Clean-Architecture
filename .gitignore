@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#visual studio
+.vs
+Herbezy.sln.vsspell
+
 #Visual Studio Code
 .vscode
 
